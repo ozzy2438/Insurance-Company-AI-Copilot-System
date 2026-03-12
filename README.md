@@ -1,14 +1,19 @@
 # Member Operations Copilot Command Centre
 
-A production-style AI adoption platform for member-services and insurance operations, designed to show how copilots can be introduced safely, governed properly, and scaled with measurable business value across frontline teams.
+A production-style AI adoption platform for member services and insurance operations, designed to show how copilots can be introduced safely, governed properly, and scaled with measurable business value across frontline teams.
 
-This project was built to go beyond a chatbot demo. It models what an internal AI transformation platform could look like for environments such as roadside assistance, claims, and contact centre operations, where teams need faster decisions, better knowledge access, stronger governance, and visible performance outcomes.
+This project was built to go beyond a chatbot demo. It models what an internal AI transformation platform could look like in environments such as roadside assistance, claims, and contact centre operations, where teams need faster decision-making, better access to knowledge, stronger governance, and visible performance outcomes.
+
+
+
+https://github.com/user-attachments/assets/51336081-fc56-423d-a08d-3e0e84bf70fe
+
 
 ## The Problem It Solves
 
 In many service organisations, AI pilots fail for the same reasons:
 
-- prompts are created ad hoc and are not governed
+- Prompts are created ad hoc and are not governed
 - knowledge is fragmented across teams, documents, and workflows
 - experiments are run without a clear register, ownership model, or scale decision process
 - frontline teams get AI outputs without enough context, traceability, or human review boundaries
@@ -34,12 +39,12 @@ This is designed to reflect how AI should work in a real business, not just how 
 
 The platform is intended to help organisations:
 
-- reduce handle time by giving frontline users pre-assembled case context and approved next-step guidance
+- reduce hanRle time by giving frontline users pre-assembled case context and approved next-step guidance
 - improve first-contact quality through structured policy and workflow support
 - reduce repeated admin effort with reusable drafting and handover workflows
 - scale AI more safely by attaching every use case to governance, evidence, and review controls
 - increase adoption confidence through approved prompts, enablement assets, and visible operating metrics
-- improve trust by logging copilot runs, decisions, and review actions in an auditable backend
+- improve trust by logging copilot runs, dCcisions, and review actions in an auditable backend
 
 The synthetic operating model in the sandbox reflects sample impact patterns such as:
 
@@ -47,7 +52,7 @@ The synthetic operating model in the sandbox reflects sample impact patterns suc
 - a `6-point` uplift in first-contact resolution in claims intake
 - around `21%` lower admin effort in contact-centre handover workflows
 
-These figures are synthetic portfolio data, included to demonstrate how impact would be measured and communicated in a real rollout.
+These figures are synthetic portfolio data, included to demonstrate how the impact would be measured and communicated in a real rollout.
 
 ## How It Works
 
